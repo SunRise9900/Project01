@@ -1,0 +1,25 @@
+#head{
+    background-color:greenyellow;
+    height: 100px;
+}
+
+#left{
+    height: 200px;
+    background-color:gray;
+
+}
+
+
+#right{
+    height: 200px;
+    background-color:khaki;
+    
+}
+
+
+#footer{
+height: 50px;
+    background-color:darkcyan;
+    
+
+}
